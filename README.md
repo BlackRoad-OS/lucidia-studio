@@ -3,7 +3,7 @@
 > Creative AI tools for artists, designers, and dreamers — built on **BlackRoad OS** infrastructure.
 
 [![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org)
 
 ---
